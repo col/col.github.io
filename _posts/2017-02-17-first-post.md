@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Post"
-tags:
+tags: [random]
 ---
 
 Just playing around, nothing to see here.
